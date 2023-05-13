@@ -45,6 +45,4 @@ __Check out my GitHub repository:__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindulle&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/mindulle">mindulle</a>
-
 Date: 14/05/2023
